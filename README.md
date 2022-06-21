@@ -2,5 +2,9 @@
 
 ### Hola 👋, mi nombre es Shirley
 #### Soy una desarrolladora Frontend
+* Me gusta crear interfaces responsivas que brinden una gran experiencia.
+* Estoy en un aprendizaje constante.
+* Me encanta salir a correr.
 
-Habilidades:  JS / HTML / CSS/ ANGULAR/NODE.JS
+
+Habilidades:  JS /JAVASCRIPT/ HTML / CSS/ ANGULAR/ NODE.JS /FIREBASE 
